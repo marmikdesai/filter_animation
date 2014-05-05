@@ -54,6 +54,14 @@ body{
 .sli1{
 	float:left;
 	width:24%;
-	background:yellow;
+	background:rgb(82, 243, 191);
 	margin:0.5%;
+}
+.sli1 a{
+	text-align: center;
+	color: #fff;
+	display: block;
+	font-size:12px;
+	line-height:20px;
+	font-family: arial,sans-serif;
 }
